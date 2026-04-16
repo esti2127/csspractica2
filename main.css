@@ -1,0 +1,21 @@
+.card {
+  box-shadow: 0 2px 4px 0 gainsboro;
+
+}
+
+h1 {
+  text-transform: capitalize;
+  font-family:Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+  font-weight:bold;
+  letter-spacing: 2px;
+}
+
+p  {
+  text-align: justify;
+  text-indent: 20px;
+  text-transform: lowercase;
+  text-shadow:2px 2px rgb(222, 222, 222);
+  letter-spacing: 2px;
+  font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+  font-size: 20px;
+}
